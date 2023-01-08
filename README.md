@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Owais Muhammad</h1>
 <h3 align="center">Full Stack Developer</h3>
+
+<ul>
+  <li><strong>Google DSC CodeJam'23 Web Challenge Winner 🏆<strong/></li>
+  <li>Vue JS Expert</li>
+</ul>
 <br/>
-<h4 align="left">Google DSC CodeJam'23 Web Challenge Winner 🏆</h4>
-<h4 align="left">Vue JS Expert</h4>
 
 
 
