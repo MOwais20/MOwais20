@@ -9,9 +9,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mowais20&show_icons=true&locale=en&layout=compact" alt="mowais20" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mowais20&show_icons=true&locale=en&layout=compact" alt="mowais20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mowais20&show_icons=true&locale=en&count_private=true" alt="mowais20" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mowais20&show_icons=true&locale=en&count_private=true" alt="mowais20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mowais20&" alt="mowais20" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mowais20&label=Profile%20views&color=0e75b6&style=flat" alt="mowais20" /> </p>
