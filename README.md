@@ -1,5 +1,20 @@
-<h1 align="center">Hi 👋, I'm Owais Muhammad</h1>
-<h3 align="center">Full Stack Developer</h3>
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
+<h1 align="center">Hi 👋, I'm Owais Muhammad Rehmani</h1>
+<h3 align="center">A passionate Full Stack Engineer from Karachi, Pakistan</h3>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
+  <img src="https://media1.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="100">
+ 
+</p>
+<br>
+<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Engineering+Student;Tech%20Enthusiast;Problem+Solving;Always%20learning%20new%20things;Evolving;Communication;Organization;Leadership;Responsibility;Analysis;Innovation&center=true&width=500&height=50"></a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mowais20&label=Profile%20views&color=0e75b6&style=flat" alt="mowais20" /> </p>
 
 <ul>
   <li><strong>Google DSC CodeJam'23 Web Challenge Winner 🏆<strong/></li>
@@ -14,7 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mowais20&show_icons=true&locale=en&count_private=true" alt="mowais20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mowais20&" alt="mowais20" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mowais20&label=Profile%20views&color=0e75b6&style=flat" alt="mowais20" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mowais20" alt="mowais20" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/muhamma72413196" target="blank"><img src="https://img.shields.io/twitter/follow/muhamma72413196?logo=twitter&style=for-the-badge" alt="muhamma72413196" /></a> </p>
@@ -23,8 +37,7 @@
 <p align="left">
 <a href="https://twitter.com/muhamma72413196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamma72413196" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mowais20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mowais20" height="30" width="40" /></a>
-<a href="https://fb.com/m.owais20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.owais20" height="30" width="40" /></a>
-<a href="https://instagram.com/m_owais20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_owais20" height="30" width="40" /></a>
+<a href="https://instagram.com/inspiredprogrammmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_owais20" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/m_owais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="m_owais" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user4811q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user4811q" height="30" width="40" /></a>
 </p>
